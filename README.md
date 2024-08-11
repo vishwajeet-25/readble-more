@@ -1,2 +1,4 @@
 # readble-more
-author-Vishwajeet Gupta
+this is my first Git Repository.
+<br>
+Author-Vishwajeet Gupta
